@@ -320,8 +320,8 @@ nav { width: 100%; top: 0px; z-index: 99; padding-top: 25px; padding-bottom: 10p
 .navbar-fixed-top .nav > li > a:hover { color: #FFF; }
 .shrink-nav .logo-light { display: none; }
 .shrink-nav .logo-dark { display: inline-block; margin-top: 3px; }
-.logo-dark { width: 135px; }
-.logo-white { width: 156px; }
+.logo-dark { width: 50px; }
+.logo-white { width: 50px; }
 .shrink-nav .navbar-nav > li > a { color: #000; margin-top: 13px; }
 .shrink-nav .nav > li > a:hover { color: #000; }
 
